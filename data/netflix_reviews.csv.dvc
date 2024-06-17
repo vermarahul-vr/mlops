@@ -1,0 +1,5 @@
+outs:
+- md5: 278856f43728b6ae6b2319527b7d4e30
+  size: 30856652
+  hash: md5
+  path: netflix_reviews.csv

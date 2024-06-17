@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = C:\Users\Rahul\Documents\Taming AI ML\AIML_SEM_3\MLOps\labs\Code\C3\remote
